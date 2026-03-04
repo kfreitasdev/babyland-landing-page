@@ -902,6 +902,17 @@ footer {
     font-size: 0.9rem;
 }
 
+.branch-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+}
+
+.branch-buttons .btn {
+    gap: 8px;
+}
+
 .hurry-text {
     color: var(--primary);
     font-size: 0.9rem;
