@@ -345,19 +345,18 @@ header.scrolled .logo img {
     }
 }
 
-/* Featured Video Section */
-.featured-video-section {
+/* Experience Section */
+.experience-section {
     background-color: #f8fafc;
     position: relative;
-    z-index: 5;
 }
 
+/* Featured Video Wrapper */
 .featured-video-wrapper {
     position: relative;
     width: 100%;
     max-width: 1000px;
-    margin: -120px auto 0;
-    /* Puxa o vídeo para cima, invadindo um pouco o hero */
+    margin: 0 auto;
     padding-top: 56.25%;
     /* 16:9 Aspect Ratio */
     background: #000;
@@ -382,17 +381,60 @@ header.scrolled .logo img {
 
 @media (max-width: 768px) {
     .featured-video-wrapper {
-        margin-top: -60px;
         border-width: 4px;
     }
 }
 
-/* Problem-Solution Section Separation */
-.problem-solution {
-    background-color: #f8fafc;
-    position: relative;
-    box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.05);
-    z-index: 4;
+/* Premium Highlight Box */
+.premium-highlight-box {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 1) 0%, rgba(248, 250, 252, 1) 100%);
+    border-left: 5px solid var(--primary);
+    padding: 32px 40px;
+    border-radius: 0 16px 16px 0;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.highlight-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 48px;
+    height: 48px;
+    background-color: rgba(225, 48, 108, 0.08);
+    /* slight primary tint */
+    border-radius: 50%;
+    color: #FBBF24;
+    font-size: 1.5rem;
+}
+
+.premium-highlight-box p {
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: var(--text-dark);
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .premium-highlight-box {
+        padding: 24px;
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .highlight-icon {
+        min-width: 40px;
+        height: 40px;
+        font-size: 1.25rem;
+    }
+
+    .premium-highlight-box p {
+        font-size: 1.05rem;
+    }
 }
 
 /* Features */
