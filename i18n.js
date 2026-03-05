@@ -1,5 +1,12 @@
 const translations = {
     en: {
+        vid_sec_title: "See What Makes Babyland Special",
+        vid_sec_desc: "Real stories from real families &mdash; watch and feel the Babyland difference.",
+        vid_reason_title: "3 Reasons to Choose Babyland",
+        vid_reason_desc: "Trilingual learning, a safe loving environment, and daily growth for your child.",
+        vid_pets_title: "Pets Day at Babyland",
+        vid_pets_desc: "Paola shares her son's experience at Preschool One and the fun Pets Day event.",
+
         val_meals_title: "Fresh Brazilian Meals",
         val_meals_desc: "Daily prepared, healthy, homemade Brazilian-inspired meals (breakfast, lunch, snacks).",
         val_method_title: "Integral Method™",
@@ -159,6 +166,18 @@ const translations = {
         modal_urgency: "Now Enrolling for 2026 - Limited Spots!"
     },
     es: {
+        vid_sec_title: "Vea Qué Hace Especial a Babyland",
+        vid_sec_desc: "Historias reales de familias reales &mdash; mire y sienta la diferencia de Babyland.",
+        vid_reason_title: "3 Razones para Elegir Babyland",
+        vid_reason_desc: "Aprendizaje trilingüe, un entorno seguro y amoroso, y crecimiento diario para su hijo.",
+        vid_pets_title: "Día de las Mascotas en Babyland",
+        vid_pets_desc: "Paola comparte la experiencia de su hijo en Preescolar Uno y el divertido evento del Día de Mascotas.",
+        prog_infants_age: "6 semanas &ndash; 1 año",
+        prog_toddlers_age: "1 &ndash; 2 años",
+        prog_pre1_age: "2 &ndash; 3 años",
+        prog_pre2_age: "3 &ndash; 4 años",
+        prog_vipk_age: "4 &ndash; 5 años",
+
         val_meals_title: "Comidas Brasileñas Frescas",
         val_meals_desc: "Comidas caseras saludables y preparadas diariamente de inspiración brasileña (desayuno, almuerzo, meriendas).",
         val_method_title: "Integral Method™",
@@ -348,6 +367,18 @@ const translations = {
         modal_urgency: "Matrículas abiertas para 2026 - ¡Cupos limitados!"
     },
     pt: {
+        vid_sec_title: "Veja o Que Faz da Babyland Especial",
+        vid_sec_desc: "Histórias reais de famílias reais &mdash; assista e sinta a diferença Babyland.",
+        vid_reason_title: "3 Razões para Escolher a Babyland",
+        vid_reason_desc: "Ensino trilíngue, um ambiente seguro e amoroso e crescimento diário para seu filho.",
+        vid_pets_title: "Dia dos Pets na Babyland",
+        vid_pets_desc: "Paola compartilha a experiência de seu filho no Preschool One e o divertido evento Pets Day.",
+        prog_infants_age: "6 semanas &ndash; 1 ano",
+        prog_toddlers_age: "1 &ndash; 2 anos",
+        prog_pre1_age: "2 &ndash; 3 anos",
+        prog_pre2_age: "3 &ndash; 4 anos",
+        prog_vipk_age: "4 &ndash; 5 anos",
+
         val_meals_title: "Refeições Brasileiras Frescas",
         val_meals_desc: "Refeições caseiras inspiradas do Brasil, saudáveis e preparadas diariamente (café da manhã, almoço, lanches).",
         val_method_title: "Método Integral™",
