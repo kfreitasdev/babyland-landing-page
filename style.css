@@ -252,16 +252,22 @@ header.scrolled .logo img {
     background: transparent;
     border: 2px solid transparent;
     border-radius: 50%;
-    font-size: 1.25rem;
     cursor: pointer;
-    width: 32px;
-    height: 32px;
+    width: 30px;
+    height: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
     transition: all 0.2s ease;
     padding: 0;
-    line-height: 1;
+}
+
+.lang-selector button .fi {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
 }
 
 .lang-selector button:hover {
@@ -269,8 +275,8 @@ header.scrolled .logo img {
 }
 
 .lang-selector button.active {
-    border-color: rgba(255, 255, 255, 0.5);
-    background: rgba(255, 255, 255, 0.1);
+    border-color: #fff;
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.4);
 }
 
 /* Mobile Responsiveness Rules */

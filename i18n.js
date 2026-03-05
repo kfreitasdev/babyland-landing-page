@@ -7,7 +7,7 @@ const translations = {
         nav_schedule: "Schedule a Tour",
 
         hero_title: "Need a Safe Place for Your Child While You Work?",
-        hero_subtitle: "\"More than 30 Years With You Since Your First Steps.\" At Babyland, your child learns 3 languages (English, Spanish & Portuguese), eats fresh homemade Brazilian meals every day, and grows through play-based learning — in a certified, loving environment. So YOU can work stress-free.",
+        hero_subtitle: "\"More than 30 Years With You Since Your First Steps.\" At Babyland, your child learns 3 languages (English, Spanish & Portuguese), eats fresh homemade Brazilian meals every day, and grows through play-based learning &mdash; in a certified, loving environment. So YOU can work stress-free.",
         hero_cta: "Schedule Your Tour Now",
         hero_badge_1: "Licensed & Certified",
         hero_badge_2: "Meals Included",
@@ -35,19 +35,19 @@ const translations = {
         programs_title: "Programs From 6 Weeks To 5 Years",
         programs_desc: "Tailored educational experiences for every crucial stage of your child's early development.",
 
-        prog_infants_age: "6 weeks – 1 year",
+        prog_infants_age: "6 weeks &ndash; 1 year",
         prog_infants_desc: "A warm, nurturing environment focused on sensory and motor development, with early exposure to English, Spanish, and Portuguese sounds.",
 
-        prog_toddlers_age: "1 – 2 years",
+        prog_toddlers_age: "1 &ndash; 2 years",
         prog_toddlers_desc: "Building confidence through play-based exploration, social interaction, and beginning trilingual immersion activities.",
 
-        prog_pre1_age: "2 – 3 years",
+        prog_pre1_age: "2 &ndash; 3 years",
         prog_pre1_desc: "Deep immersion into our trilingual curriculum, developing communication, problem-solving, and social skills through hands-on learning.",
 
-        prog_pre2_age: "3 – 4 years",
-        prog_pre2_desc: "Advanced language development with structured learning in Arts, Sciences, and critical thinking — preparing confident trilingual communicators.",
+        prog_pre2_age: "3 &ndash; 4 years",
+        prog_pre2_desc: "Advanced language development with structured learning in Arts, Sciences, and critical thinking &mdash; preparing confident trilingual communicators.",
 
-        prog_vipk_age: "4 – 5 years",
+        prog_vipk_age: "4 &ndash; 5 years",
         prog_vipk_desc: "Complete Kindergarten readiness with advanced trilingual mastery, interactive learning, and the confidence to excel in any school environment.",
 
         programs_cta: "Secure Your Child's Spot Now",
@@ -133,19 +133,19 @@ const translations = {
         programs_title: "Programas desde 6 Semanas a 5 Años",
         programs_desc: "Experiencias educativas adaptadas para cada etapa del desarrollo temprano de tu hijo.",
 
-        prog_infants_age: "6 semanas – 1 año",
+        prog_infants_age: "6 semanas &ndash; 1 año",
         prog_infants_desc: "Un entorno cálido y nutritivo centrado en el desarrollo sensorial y motor, con exposición temprana a sonidos en inglés, español y portugués.",
 
-        prog_toddlers_age: "1 – 2 años",
+        prog_toddlers_age: "1 &ndash; 2 años",
         prog_toddlers_desc: "Construyendo confianza mediante la exploración, interacción social y primeras actividades inmersivas.",
 
-        prog_pre1_age: "2 – 3 años",
+        prog_pre1_age: "2 &ndash; 3 años",
         prog_pre1_desc: "Inmersión profunda en nuestro currículo trilingüe, desarrollando comunicación y resolución de problemas.",
 
-        prog_pre2_age: "3 – 4 años",
+        prog_pre2_age: "3 &ndash; 4 años",
         prog_pre2_desc: "Desarrollo del lenguaje avanzado con aprendizaje estructurado preparando comunicadores trilingües.",
 
-        prog_vipk_age: "4 – 5 años",
+        prog_vipk_age: "4 &ndash; 5 años",
         prog_vipk_desc: "Preparación completa para Kindergarten con dominio trilingüe y confianza para cualquier escuela.",
 
         programs_cta: "Asegura el lugar de tu hijo ahora",
@@ -203,7 +203,7 @@ const translations = {
         nav_schedule: "Agende uma Visita",
 
         hero_title: "Precisa de um lugar seguro para seu filho enquanto você trabalha?",
-        hero_subtitle: "\"Mais de 30 anos com você desde os primeiros passos.\" Na Babyland, seu filho aprende 3 idiomas (Inglês, Espanhol e Português), come refeições caseiras brasileiras todos os dias e cresce brincando – em um ambiente certificado e cheio de amor. Assim você trabalha tranquilo(a).",
+        hero_subtitle: "\"Mais de 30 anos com você desde os primeiros passos.\" Na Babyland, seu filho aprende 3 idiomas (Inglês, Espanhol e Português), come refeições caseiras brasileiras todos os dias e cresce brincando &ndash; em um ambiente certificado e cheio de amor. Assim você trabalha tranquilo(a).",
         hero_cta: "Agende sua Visita Agora",
         hero_badge_1: "Licenciado e Certificado",
         hero_badge_2: "Refeições Inclusas",
@@ -231,19 +231,19 @@ const translations = {
         programs_title: "Programas de 6 Semanas a 5 Anos",
         programs_desc: "Experiências educativas adaptadas para cada momento crucial do desenvolvimento.",
 
-        prog_infants_age: "6 semanas – 1 ano",
+        prog_infants_age: "6 semanas &ndash; 1 ano",
         prog_infants_desc: "Um ambiente acolhedor e nutritivo focado no desenvolvimento motor e sensorial, com introdução aos 3 idiomas.",
 
-        prog_toddlers_age: "1 – 2 anos",
+        prog_toddlers_age: "1 &ndash; 2 anos",
         prog_toddlers_desc: "Construindo confiança através da exploração lúdica, interação e atividades imersivas iniciais.",
 
-        prog_pre1_age: "2 – 3 anos",
+        prog_pre1_age: "2 &ndash; 3 anos",
         prog_pre1_desc: "Imersão profunda no currículo trilíngue, focando na comunicação e habilidades de resolução de problemas.",
 
-        prog_pre2_age: "3 – 4 anos",
+        prog_pre2_age: "3 &ndash; 4 anos",
         prog_pre2_desc: "Desenvolvimento avançado de linguagem com artes, ciências e preparação de comunicadores bilíngues confiantes.",
 
-        prog_vipk_age: "4 – 5 anos",
+        prog_vipk_age: "4 &ndash; 5 anos",
         prog_vipk_desc: "Prontidão total para o Kindergarten (jardim de infância) com maestria trilíngue avançada.",
 
         programs_cta: "Garanta a Vaga do Seu Filho Aqui",
